@@ -1,0 +1,67 @@
+bag
+bicycle
+binder
+blanket
+bulletin board
+can
+can opener
+candy wrapper
+car
+carboard
+cellphone
+charger
+clothing
+coffee maker
+earphone
+envelop
+eraser
+extension code
+fan
+food
+furniture
+glass bottle
+glass container
+glasses
+hair dryer
+hairbrush
+hanger
+lamp
+laptop
+lightbulb
+lotion
+medicine
+milk carton
+mug
+notebook
+paper
+paper cup
+paper plate
+pc
+pen
+pillow
+plastic bag
+plastic bottle
+plastic container
+plastic utencil
+polystyrene foam
+pot
+refrigrator
+rubber band
+rug
+scissors
+shoes
+silverware
+skateboard
+straw
+sunglasses
+tape
+tissue
+toothbrush
+toothpaste
+towel
+trash bag
+tv
+umbrella
+usb
+wood utencil
+other
